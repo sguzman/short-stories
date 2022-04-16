@@ -10,9 +10,9 @@
 #+CATEGORY: Wattpad
 
 * Introduction
-I, Salvador Guzm\'{a}n, ravenously consumed visually the blinking cursor.
+I, Salvador Guzm\'{a}n, ravenously consumed the blinking cursor.
 
-It had been a while since my thoughts steered toward the world creative
+It had been a while since my thoughts steered towards the world creative of
 writing. What usually dominated my day-to-day devices pulled my sinewy spirit
 away from that realm human activity. I was too busy scaffolding original
 intellectual activity in mathematics to trifle with such small game.
@@ -28,4 +28,4 @@ emphatically state my intellectual superiority over you. It's why you're here in
 the first place.
 
 And as these humble thoughts swirled around my head and I addressed my legion of
-future readers, I blinked my tired eyes. And the cursor blinked back.
+future readers, I blinked my tired eyes. The cursor blinked back.
